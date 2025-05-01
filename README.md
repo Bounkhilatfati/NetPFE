@@ -1,5 +1,6 @@
 # 🍽️ NetPFE - Gestion des Projets de Fin d'Études
 Une application web complète réalisée avec Symfony pour la gestion des projets de fin d'études (PFE), destinée aux étudiants, encadrants et administrateurs.
+
 Projet développé dans le cadre d’une évaluation universitaire.
 
 ---
@@ -70,8 +71,11 @@ cd netpfe
 ## 📊 Modèles de la Base de Données
 
 Le système utilise Doctrine ORM avec les entités suivantes:
+
 **Projet**: Représente un projet de fin d'études avec son titre et sa description.
+
 **Etudiant**: Représente un étudiant avec son nom, prénom, date de naissance, téléphone et email.
+
 **Encadrant**: Représente un encadrant académique avec son nom, prénom, spécialité, email, téléphone et disponibilité.
 
 
