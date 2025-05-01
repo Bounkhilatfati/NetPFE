@@ -7,7 +7,7 @@ Projet développé dans le cadre d’une évaluation universitaire.
 
 ## 🌟 Fonctionnalités
 
-### 👨‍🍳Gestion complète des projets, étudiants et encadrants
+### 👨‍💼Gestion complète des projets, étudiants et encadrants
 - **Projets** : Création avec titre/description, stockage en base de données, recherche/affichage et modification/suppression
 - **Étudiants** : Enregistrement avec données personnelles (nom, prénom, date de naissance, téléphone, email), stockage, consultation et mise à jour/suppression
 - **Encadrants** : Création avec informations professionnelles (nom, prénom, spécialité, email, téléphone, disponibilité), stockage, recherche et modification/suppression
