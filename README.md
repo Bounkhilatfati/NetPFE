@@ -10,8 +10,6 @@ Projet développé dans le cadre d’une évaluation universitaire.
 - **Projets** : Création avec titre/description, stockage en base de données, recherche/affichage et modification/suppression
 - **Étudiants** : Enregistrement avec données personnelles (nom, prénom, date de naissance, téléphone, email), stockage, consultation et mise à jour/suppression
 - **Encadrants** : Création avec informations professionnelles (nom, prénom, spécialité, email, téléphone, disponibilité), stockage, recherche et modification/suppression
-- Visualiser le **coût total** d'une commande
-- Interface **responsive** et moderne avec Bootstrap
 
 ### 🔧 Relations entre entités
 - Un projet peut avoir 0 ou 1 étudiant
@@ -72,10 +70,9 @@ cd netpfe
 ## 📊 Modèles de la Base de Données
 
 Le système utilise Doctrine ORM avec les entités suivantes:
-
-**Projet**: Représente un projet de fin d'études avec son titre et sa description
-**Etudiant**: Représente un étudiant avec son nom, prénom, date de naissance, téléphone et email
-**Encadrant**: Représente un encadrant académique avec son nom, prénom, spécialité, email, téléphone et disponibilité
+**Projet**: Représente un projet de fin d'études avec son titre et sa description.
+**Etudiant**: Représente un étudiant avec son nom, prénom, date de naissance, téléphone et email.
+**Encadrant**: Représente un encadrant académique avec son nom, prénom, spécialité, email, téléphone et disponibilité.
 
 
 
